@@ -4,6 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [Creating Virtual Machines in the Cloud](https://github.com/anakamura1/VM-creation)
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
   - [Using a VPN with Azure Virtual Machines]
 - <b>Active Directory</b>
