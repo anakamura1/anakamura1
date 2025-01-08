@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
   - [Using a VPN with Azure Virtual Machines]
 - <b>Active Directory</b>
   - [Active Directory Infrastructure Setup & Deployment]
