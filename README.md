@@ -8,7 +8,7 @@
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
   - [Using a VPN with Azure Virtual Machines]
 - <b>Active Directory</b>
-  - [Active Directory Infrastructure Setup & Deployment]
+  - [Active Directory Infrastructure Setup & Deployment](https://github.com/anakamura1/ad-configuration)
   - [User Creation w/ Powershell & Creating Group Policy Objects]
   - [Building Domain Name System Intuition]
   - [Understanding Network File Shares & User Permissions]
