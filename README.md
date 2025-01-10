@@ -15,7 +15,7 @@
  - <b>osTicket (Help Desk Ticketing System)</b>
    - [osTicket: Prerequisites and Installation](https://github.com/anakamura1/osticket-prereqs)
    - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-   - [osTicket: Ticket Lifecycle Simulation](https://github.com/joshmadakorcc/ticket-lifecycle)
+   - [osTicket: Ticket Lifecycle Simulation](https://github.com/anakamura1/ticket-life)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
