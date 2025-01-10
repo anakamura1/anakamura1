@@ -10,7 +10,7 @@
 - <b>Active Directory</b>
   - [AD Installation, Deployment, & PowerShell User Creation ](https://github.com/anakamura1/ad-configuration)
   - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
-  - [Building Domain Name System Intuition]
+  - [Building Domain Name System Intuition](https://github.com/anakamura1/dns-intuition)
   - [Understanding Network File Shares & User Permissions]
  - <b>osTicket (Help Desk Ticketing System)</b>
    - [osTicket: Prerequisites and Installation](https://github.com/anakamura1/osticket-prereqs)
