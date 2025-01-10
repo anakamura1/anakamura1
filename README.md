@@ -9,7 +9,7 @@
   - [Using a VPN with Azure Virtual Machines]
 - <b>Active Directory</b>
   - [AD Installation, Deployment, & PowerShell User Creation ](https://github.com/anakamura1/ad-configuration)
-  - [User Creation w/ Powershell & Creating Group Policy Objects]
+  - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
   - [Building Domain Name System Intuition]
   - [Understanding Network File Shares & User Permissions]
  - <b>osTicket (Help Desk Ticketing System)</b>
