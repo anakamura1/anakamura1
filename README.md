@@ -14,7 +14,7 @@
   - [Understanding Network File Shares & User Permissions]
  - <b>osTicket (Help Desk Ticketing System)</b>
    - [osTicket: Prerequisites and Installation](https://github.com/anakamura1/osticket-prereqs)
-   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+   - [osTicket: Post-Installation Configuration](https://github.com/anakamura1/post-install-config)
    - [osTicket: Ticket Lifecycle Simulation](https://github.com/anakamura1/ticket-life)
 <h2>🤳Connect with me:</h2>
 
