@@ -7,7 +7,7 @@
   - [Creating Virtual Machines in the Cloud](https://github.com/anakamura1/VM-creation)
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
 - <b>Active Directory</b>
-  - [AD Installation, Deployment, & PowerShell User Creation ](https://github.com/anakamura1/ad-configuration)
+  - [AD Implementation & PowerShell User Creation ](https://github.com/anakamura1/ad-configuration)
   - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
   - [Building Domain Name System Intuition](https://github.com/anakamura1/dns-intuition)
   - [Understanding Network File Shares & User Permissions](https://github.com/anakamura1/network-file-shares)
