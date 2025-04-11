@@ -1,5 +1,5 @@
 
-<h1>Hi there! I'm Akira, your <a href="https://linkedin.com/in/akiranakamura1">IT Professional</a> 
+<h1>Hi there! I'm Akira, your <a href="https://linkedin.com/in/akiranakamura1">IT Support Analyst</a> 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
