@@ -15,6 +15,11 @@
    - [osTicket: Prerequisites and Installation](https://github.com/anakamura1/osticket-prereqs)
    - [osTicket: Post-Installation Configuration](https://github.com/anakamura1/osticket-config)
    - [osTicket: Ticket Lifecycle Simulation](https://github.com/anakamura1/ticket-life)
+  
+  - <b>Office 365 Adventures</b>
+
+  - <b>Learning the Basics to PowerShell Scripting</b>
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
