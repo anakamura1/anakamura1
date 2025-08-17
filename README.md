@@ -17,7 +17,7 @@
    - [osTicket: Ticket Lifecycle Simulation](https://github.com/anakamura1/ticket-life)
   
   - <b>Office 365 Adventures</b>
-
+    - [Screenshots](https://github.com/anakamura1/office365/tree/main)
   - <b>Learning the Basics to PowerShell Scripting</b>
   
 <h2>🤳Connect with me:</h2>
