@@ -1,15 +1,16 @@
 
 ### [Junior IT Technician](https://linkedin.com/in/akiranakamura1) @ [Decisions](https://decisions.com/)
-Red Hat Certified System Adminster (RHCSA) CompTIA Network+ Security+
+#### Red Hat Certified System Adminster (RHCSA) CompTIA Network+ Security+
+##
 
-## Outside of Work Projects
+### Outside of Work Projects
 
-### Cloud
+#### Cloud
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/anakamura1/VM-creation)
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
 
-### System Administration
+#### System Administration
 - <b>Active Directory</b>
   - [AD Implementation & PowerShell User Creation ](https://github.com/anakamura1/ad-config)
   - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
