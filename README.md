@@ -1,5 +1,6 @@
 
 ### [Junior IT Technician](https://linkedin.com/in/akiranakamura1) @ [Decisions](https://decisions.com/)
+Red Hat Certified System Adminster (RHCSA) CompTIA Network+ Security+
 
 ## Outside of Work Projects
 
@@ -19,9 +20,6 @@
    - [osTicket: Post-Installation Configuration](https://github.com/anakamura1/osticket-config)
    - [osTicket: Ticket Lifecycle Simulation](https://github.com/anakamura1/ticket-life)
   
-  - <b>Office 365 Adventures</b>
-    - [Screenshots of Progress](https://github.com/anakamura1/office365/tree/main)
-   
   - <b>Learning the Basics to PowerShell Scripting</b>
     - [Screenshots of Progress](https://github.com/anakamura1/pwshbasics/blob/main/README.md)
 #
