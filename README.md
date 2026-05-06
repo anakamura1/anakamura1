@@ -1,5 +1,5 @@
 
-### [Junior IT Technician](https://linkedin.com/in/akiranakamura1) @ Decisions
+### [Junior IT Technician](https://linkedin.com/in/akiranakamura1) @ [Decisions](https://decisions.com/)
 
 ## Outside of Work Projects
 
