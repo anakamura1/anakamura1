@@ -1,11 +1,14 @@
 
-<h1>Hi there! I'm Akira, your <a href="https://linkedin.com/in/akiranakamura1">IT Support Analyst</a> 
+### [Junior IT Technician](https://linkedin.com/in/akiranakamura1) @ Decisions
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## Outside of Work Projects
 
+### Cloud
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/anakamura1/VM-creation)
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
+
+### System Administration
 - <b>Active Directory</b>
   - [AD Implementation & PowerShell User Creation ](https://github.com/anakamura1/ad-config)
   - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
@@ -18,12 +21,12 @@
   
   - <b>Office 365 Adventures</b>
     - [Screenshots of Progress](https://github.com/anakamura1/office365/tree/main)
+   
   - <b>Learning the Basics to PowerShell Scripting</b>
     - [Screenshots of Progress](https://github.com/anakamura1/pwshbasics/blob/main/README.md)
-  
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+#
+ [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akiranakamura1)
 
 
-[linkedin]: https://linkedin.com/in/akiranakamura1
+
+
