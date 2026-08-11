@@ -6,6 +6,8 @@
 ### Outside of Work Projects
 
 #### Cloud
+- <b>Containerized Cloud Deployment App</b>
+  - [FastAPI Docker Todo App w/ Postgres DB](https://github.com/anakamura1/todoapp)
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/anakamura1/VM-creation)
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
