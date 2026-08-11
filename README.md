@@ -5,7 +5,7 @@
 
 ### Outside of Work Projects
 
-#### Cloud
+#### Containers & Cloud 
 - <b>Containerized Cloud Deployment App</b>
   - [FastAPI Docker Todo App w/ Postgres DB](https://github.com/anakamura1/todoapp)
 - <b>Microsoft Azure</b>
@@ -23,8 +23,6 @@
    - [osTicket: Post-Installation Configuration](https://github.com/anakamura1/osticket-config)
    - [osTicket: Ticket Lifecycle Simulation](https://github.com/anakamura1/ticket-life)
   
-  - <b>Learning the Basics to PowerShell Scripting</b>
-    - [Screenshots of Progress](https://github.com/anakamura1/pwshbasics/blob/main/README.md)
 #
  [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akiranakamura1)
 
