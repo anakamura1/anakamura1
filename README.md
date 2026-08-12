@@ -13,6 +13,8 @@
   - [Observing Network Traffic & Network Security Groups(NSGs)](https://github.com/anakamura1/network-traffic-nsg)
 
 #### System Administration
+- <b>Shell Scripting</b>
+  - [PowerShell Scripts](https://github.com/anakamura1/shellscripts)
 - <b>Active Directory</b>
   - [AD Implementation & PowerShell User Creation ](https://github.com/anakamura1/ad-config)
   - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
