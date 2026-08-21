@@ -16,7 +16,7 @@
 
 #### System Administration
 - <b>Shell Scripting</b>
-  - [PowerShell Scripts](https://github.com/anakamura1/shellscripts)
+  - [PowerShell/Bash Scripts](https://github.com/anakamura1/shellscripts)
 - <b>Active Directory</b>
   - [AD Implementation & PowerShell User Creation ](https://github.com/anakamura1/ad-config)
   - [Creating Group Policy Objects](https://github.com/anakamura1/gpo)
